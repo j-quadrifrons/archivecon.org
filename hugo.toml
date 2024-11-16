@@ -47,6 +47,12 @@ url = 'https://archivecon.tumblr.com'
   footer = true
 	icon = 'fab fa-tumblr-square'
 	network = 'tumblr'
+[[params.social]]
+name = 'bsky'
+url = 'https://bsky.app/profile/archivecon.bsky.social'
+  footer = true
+	icon = 'fab fa-bluesky'
+	network = 'bluesky'
 
 [menu]
 [[menu.main]]

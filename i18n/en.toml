@@ -1,0 +1,33 @@
+[home_services]
+    other = "Get Ready"
+
+[home_recentworks]
+    other = "Previous Cons"
+
+[home_clients]
+    other = "Clients"
+
+[404_title]
+    other = "404"
+
+[404_description]
+    other = "Oops! This page doesn't exist!"
+
+[footer_contact_title]
+    other = "Contact"
+
+[footer_followme_title]
+    other = "Follow us"
+
+[footer_text_title]
+    other = ""
+[footer_text1]
+    other = "Rusty Quill Online content is distributed and licenced under a Creative Commons Attribution-NonCommercial-ShareAlike International Licence. Details can be found [here](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+
+[footer_text_2]
+    other = "Testing now to see how a fourth footer block works"
+[footer_form_title]
+    other = "Form widget"
+
+[recent_works_click_text]
+    other = "See details"

@@ -1,0 +1,3 @@
+[submodule "themes/initio"]
+	path = themes/initio
+	url = https://github.com/miguelsimoni/hugo-initio.git

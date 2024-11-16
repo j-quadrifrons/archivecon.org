@@ -1,0 +1,87 @@
+baseURL = 'http://www.archivecon.org'
+languageCode = 'en-us'
+#title = 'ArchiveCon 2025'
+theme = 'initio'
+title = 'ArchiveCon'
+copyright = 'ArchiveCon 2024'
+
+[params]
+		author = 'ArchiveCon'
+		description = 'ArchiveCon is an adults-only, online-only, mini-convention for The Magnus Archives fans and their adjacent interests.'
+		headerTitle = 'ArchiveCon'
+		banner = '/cyrus-crossan-unsplash.jpg'
+		img_title = 'Image from Cyrus Crossan on Unsplash. Used with permission'
+		favicon = '/logo.png'
+		avatar = '/logo.png'
+		DateForm = 'January 2, 2006'
+		email = 'info@archivecon.org'
+		year = 2024
+
+		# initio theme specific
+		showSubheader = true
+		showServices = true
+
+		showFooterContact = true
+		showFooterFollowMe = true
+		showFooterTextWidget = true
+		showFooterFormWidget = false
+
+		# archivecon specific
+		applications = 'closed'
+		registration = 'open'
+		registration_url = 'https://www.eventbrite.ca/e/archivecon-tickets-1037239740987?aff=oddtdtcreator'
+		app_opens = '2024-10-01'
+		constart = '2025-06-27'
+		conend = '2025-06-29'
+		conyear = '2025'
+
+[[params.social]]
+name = 'twitter'
+url = 'https://twitter.com/archive_con'
+  footer = true
+	icon = 'fab fa-twitter-square'
+	network = 'twitter'
+[[params.social]]
+name = 'tumblr'
+url = 'https://archivecon.tumblr.com'
+  footer = true
+	icon = 'fab fa-tumblr-square'
+	network = 'tumblr'
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+	url = '/'
+	weight = 1
+[[menu.main]]
+name = 'About'
+url = '/about'
+weight = 2
+[[menu.main]]
+name = 'FAQ'
+url = '/faq'
+weight = 3
+[[menu.main]]
+name = 'Register'
+url = '/registration'
+weight = 4
+
+[taxonomies]
+category = 'years'
+
+[outputs]
+home = ['HTML', 'RSS']
+
+[markup]
+  [markup.goldmark]
+	  [markup.goldmark.extensions]
+		  definitionList = true
+			linkify = true
+			strikethrough = true
+
+			[markup.goldmark.extensions.passthrough]
+			enable = true
+    [markup.goldmark.parser.attribute]
+    block = true
+    [markup.goldmark.renderHooks.image]
+    enableDefault = true

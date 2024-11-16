@@ -1,0 +1,10 @@
+
+<div class="row services">
+    {{ range where .Data.Pages "Section" .Section }}
+      <div class="col-sm-6 col-md-3 service">
+        <h3 class="text-center">{{ .Title }}</h3>
+        <p>{{ .Summary }}</p>
+        <p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">Read more</a></p>
+      </div>
+    {{ end }}
+</div>

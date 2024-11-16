@@ -51,7 +51,7 @@ url = 'https://archivecon.tumblr.com'
 name = 'bsky'
 url = 'https://bsky.app/profile/archivecon.bsky.social'
   footer = true
-	icon = 'fab fa-bluesky'
+	icon = 'fas fa-square'
 	network = 'bluesky'
 
 [menu]

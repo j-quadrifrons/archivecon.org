@@ -27,7 +27,7 @@ copyright = 'ArchiveCon 2024'
 		showFooterFormWidget = false
 
 		# archivecon specific
-		applications = 'closed'
+		applications = 'open'
 		registration = 'open'
 		registration_url = 'https://www.eventbrite.ca/e/archivecon-tickets-1037239740987?aff=oddtdtcreator'
 		app_opens = '2024-10-01'

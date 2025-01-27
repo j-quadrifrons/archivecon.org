@@ -24,3 +24,5 @@ During the convention itself, each AA Artist (should they wish) will have their 
 * Due to the above restrictions, we fully accept any original or fandom works for other media!
 * Your store can remain open as it usually is in the lead-up to the convention
 * ArchiveCon holds no responsibility for purchases made off-site, and we assume that anyone making a purchase of NSFW art is 18+
+
+{{< artist_cta >}}

@@ -14,7 +14,7 @@ Before registering, please review the Rules and Code of Conduct one more time:
 * Our panels will be given a NSFW tag if applicable, and panelists are free to choose content warnings. However, they are also free not to, so please ensure you curate your experience responsibly.
 * We are against harassment and fandom puritanism - if these do not align with your beliefs, then this may not be the convention for you.
 
-If you see any behaviour that breaks the above rules, or makes you uncomfortable, let us know! Either email us at {{< email >}}, message us on Twitter or Tumblr, or @ one of the staff on Discord.
+If you see any behaviour that breaks the above rules, or makes you uncomfortable, let us know! Either email us at {{< email >}}, message us on Bluesky or Tumblr, or @ one of the staff on Discord.
 
 ## Registration
 

@@ -371,6 +371,7 @@ img {
   -moz-background-clip: padding;
   border-radius: 0;
   background-clip: padding-box;
+	margin-top: 10px;
 }
 .panel-cta p,
 .panel-cta h3,

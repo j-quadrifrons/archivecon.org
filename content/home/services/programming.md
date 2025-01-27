@@ -32,7 +32,7 @@ As well, in consideration for international attendees and/or those that like sle
 * We will require a technical check-in before your panel; please have the same equipment and tools you'll be using for your panel for this check!
 * All panels will have one moderator to monitor the chat as you are presenting
 * Multiple people may host the same panel
-* Unsure if your topic fits with the themes of the convention? Contact us through our email, Twitter, or Tumblr, and we can work with you to see if it does!
+* Unsure if your topic fits with the themes of the convention? Contact us through our email, Bluesky, or Tumblr, and we can work with you to see if it does!
 
 ### Games, Activities, and Workshops
 
@@ -44,9 +44,10 @@ Not tired of learning? Why not show us how to make a zine, or sew a simple doll!
 
 * Games can be anywhere from 1 - 3 hours long (lengthier slots mainly for ttrpg games); workshops between 1 - 1.5 hours
 * Games and workshop panels will have a moderator on hand to monitor the chat
-* Have an idea for an activity and not sure if it's accepted? Got an idea for something completely different? Feel free to ask us through email, Twitter, or Tumblr!
+* Have an idea for an activity and not sure if it's accepted? Got an idea for something completely different? Feel free to ask us through email, Bluesky, or Tumblr!
 
 
 
+{{< panelist_cta >}}
 
 

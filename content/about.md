@@ -7,19 +7,19 @@ ArchiveCon was started in 2022, as the Magnus Archives fandom was beginning to d
 ## Meet the Team
 Carrie | Con-runner  
 She\Her | Peter Lukas should have been TMA's true hero  
-[@emperiocism](https://twitter.com/emperiocism)
+[@emperiocism](https://bsky.app/profile/emperiocism.bsky.social)
 
 Aza | Moderator | Tech Support  
 She/They/It | One time Jonny Sims gave me a pity high-five  
-[@sazandorable](https://twitter.com/sazandorable)
+[@sazandorable](https://bsky.app/profile/sazlessadorable.bsky.social)
 
 J. Quadrifrons | Fandom Elder | Moderator  
 They/Them | Fiber nerd and former librarian  
-[@j_quadrifrons](https://twitter.com/j_quadrifrons)
+[@j_quadrifrons](https://bsky.app/profile/quadrifrons.online)
 
 Elodie | Moderator	
 She/Her | Likes spreadsheets & archivists, does not have grey eyes (yet)  
-[@RavenXavier11](https://twitter.com/RavenXavier11)
+[@RavenXavier11](https://bsky.app/profile/ravenxavier-11.bsky.social)
 
 Hosta | Copywriter | Moderator  
 He/They | Eldritch terror, hairstylist, and all-around gremlin  
@@ -30,4 +30,4 @@ She/Her | One day I'll finish that entry about tape recorders in TMA
 [@cassidybeads](https://twitter.com/cassidybeads)
 
 ## Contact
-Got questions? Email us anytime at {{< email >}} or message us on [Tumblr](https://archivecon.tumblr.com) or [Twitter](https://twitter.com/archive_con)!
+Got questions? Email us anytime at {{< email >}} or message us on [Tumblr](https://archivecon.tumblr.com) or [Bluesky](https://bsky.app/profile/archivecon.bsky.social)!

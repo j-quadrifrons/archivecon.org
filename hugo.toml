@@ -14,7 +14,7 @@ copyright = 'ArchiveCon 2024'
 		favicon = '/logo.png'
 		avatar = '/logo.png'
 		DateForm = 'January 2, 2006'
-		email = 'info@archivecon.org'
+		email = 'archivecon@protonmail.com'
 		year = 2024
 
 		# initio theme specific

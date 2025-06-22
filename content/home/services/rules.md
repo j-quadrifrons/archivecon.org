@@ -3,7 +3,7 @@ title = 'Attending ArchiveCon'
 weight = 1
 +++
 
-In terms of attending the con itself, we will be using three different platforms: Discord, Zoom, and Twitch.
+As a virtual convention, ArchiveCon takes place on Discord and Zoom.
 
 <!--more-->
 
@@ -15,11 +15,6 @@ This will be the main community hub: chat with fellow fans, receive announcement
 
 We will be hosting the majority of our panels and activities here! Zoom is free to use for attendees. Each video has a chat section alongside, so attendees can talk about the panel or activity, and, if the panelist allows it, ask questions at the end. All attendees will be automatically muted when they join. If you'd like to watch our panels live, we highly recommend you download Zoom before the convention starts. We will also be hosting a few practice sessions so attendees and panelists can get comfortable with the program. 
 
-### Twitch
-
-Similar to Zoom, this is another option for panelists to choose from, if they have their own channel. Attendees will be able to type chat alongside the video screen.
-
-Remember - to get the full experience of the con, make sure you have a Discord account, and can access Twitch and Zoom. However, if you prefer a quieter, singular experience, that's fine too! All links to panels and activities will be emailed to registered attendees, so you don't need to join the Discord if you'd prefer not to.
 
 ## Rules and Code of Conduct
 

@@ -545,6 +545,11 @@ details summary h2 {
 		padding: 0 0 5px 5px;
 }
 
+details summary h2:after {
+		content: " ⮟";
+		text-align: justify;
+}
+
 ul li {
 	list-style-type: square;
 }

@@ -3,7 +3,7 @@ languageCode = 'en-us'
 #title = 'ArchiveCon 2025'
 theme = 'initio'
 title = 'ArchiveCon'
-copyright = 'ArchiveCon 2024'
+copyright = 'ArchiveCon 2025'
 
 [params]
 		author = 'ArchiveCon'
@@ -15,7 +15,7 @@ copyright = 'ArchiveCon 2024'
 		avatar = '/logo.png'
 		DateForm = 'January 2, 2006'
 		email = 'archivecon@protonmail.com'
-		year = 2024
+		year = 2025
 
 		# initio theme specific
 		showSubheader = true
@@ -27,8 +27,8 @@ copyright = 'ArchiveCon 2024'
 		showFooterFormWidget = false
 
 		# archivecon specific
-		applications = 'open'
-		registration = 'open'
+		applications = 'closed'
+		registration = 'closed'
 		registration_url = 'https://www.eventbrite.ca/e/archivecon-tickets-1037239740987?aff=oddtdtcreator'
 		artist_url = 'https://docs.google.com/forms/d/e/1FAIpQLSc9HaQRPW91ZnYmfJ62pfTP9GYjsCElOoMXvjV7QosB4eN1Aw/viewform'
 		panelist_url = 'https://docs.google.com/forms/d/e/1FAIpQLSczI3-q5BPC9YhWsNXHwZnK1oAIzeh1Hkm9E5gXoUPLlys_3A/viewform'
@@ -73,6 +73,10 @@ weight = 3
 name = 'Register'
 url = '/registration'
 weight = 4
+[[menu.main]]
+name = 'Schedule'
+url = '/home/services/schedule'
+weight = 5
 
 [taxonomies]
 category = 'years'

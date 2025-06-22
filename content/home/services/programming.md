@@ -1,10 +1,10 @@
 +++
 title = 'Panels & Events'
+draft = true
 lastmod = '2024-09-18'
-summary = "Want to host a game, give a talk, organize a roundtable, or do something else fun at ArchiveCon? We'll be soliciting for programming soon!"
+summary = "Want to host a game, give a talk, organize a roundtable, or do something else fun at ArchiveCon?"
 +++
 
-{{< applications >}}
 
 Want to host a game, give a talk, organize a roundtable, or do something else fun at ArchiveCon? We'll be soliciting for programming soon! In the meantime, you can [review some of our previous years' events for inspiration]({{< relref "past" >}}).
 

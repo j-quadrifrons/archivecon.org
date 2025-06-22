@@ -1,4 +1,11 @@
-<details>
+{{- $open := false }}
+{{- with .Get 1 }}
+    {{- if not (eq . false) }}
+        {{- $open = true }}
+    {{- end }}
+{{- end }}
+
+<details {{- if $open }} open {{- end -}}>
 		<summary><h2>{{ (.Get 0) | markdownify }}</h2></summary>
 		{{ .Inner | markdownify }}
 </details>

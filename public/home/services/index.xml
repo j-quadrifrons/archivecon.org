@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get Ready on ArchiveCon</title>
-    <link>http://www.archivecon.org/home/services/</link>
+    <link>http://localhost:1313/home/services/</link>
     <description>Recent content in Get Ready on ArchiveCon</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>ArchiveCon 2025</copyright>
     <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.archivecon.org/home/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/home/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attending ArchiveCon</title>
-      <link>http://www.archivecon.org/home/services/rules/</link>
+      <link>http://localhost:1313/home/services/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.archivecon.org/home/services/rules/</guid>
+      <guid>http://localhost:1313/home/services/rules/</guid>
       <description>&lt;p&gt;As a virtual convention, ArchiveCon takes place on Discord and Zoom.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Schedule</title>
-      <link>http://www.archivecon.org/home/services/schedule/</link>
+      <link>http://localhost:1313/home/services/schedule/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.archivecon.org/home/services/schedule/</guid>
+      <guid>http://localhost:1313/home/services/schedule/</guid>
       <description>Check out this year&amp;rsquo;s schedule of events!</description>
     </item>
     <item>
       <title>Artist Alley</title>
-      <link>http://www.archivecon.org/home/services/artists/</link>
+      <link>http://localhost:1313/home/services/artists/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.archivecon.org/home/services/artists/</guid>
+      <guid>http://localhost:1313/home/services/artists/</guid>
       <description>We will have a directory of artists, writers, and artisans (collectively henceforth known as AA Artists) right here on the site for you to peruse while attending ArchiveCon!</description>
     </item>
     <item>
       <title>Previous Years</title>
-      <link>http://www.archivecon.org/home/services/past/</link>
+      <link>http://localhost:1313/home/services/past/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.archivecon.org/home/services/past/</guid>
+      <guid>http://localhost:1313/home/services/past/</guid>
       <description>&lt;p&gt;Looking for inspiration for your next game, panel, or event, or just want to see what we&amp;rsquo;re about? Peruse some of our previous events to see what kinds of things we love!&lt;/p&gt;</description>
     </item>
   </channel>

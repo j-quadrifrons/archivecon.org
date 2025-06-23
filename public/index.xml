@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ArchiveCon</title>
-    <link>http://www.archivecon.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on ArchiveCon</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>ArchiveCon 2025</copyright>
     <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.archivecon.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attending ArchiveCon</title>
-      <link>http://www.archivecon.org/home/services/rules/</link>
+      <link>http://localhost:1313/home/services/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.archivecon.org/home/services/rules/</guid>
+      <guid>http://localhost:1313/home/services/rules/</guid>
       <description>&lt;p&gt;As a virtual convention, ArchiveCon takes place on Discord and Zoom.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FAQ</title>
-      <link>http://www.archivecon.org/faq/</link>
+      <link>http://localhost:1313/faq/</link>
       <pubDate>Mon, 26 Aug 2024 10:01:14 -0500</pubDate>
-      <guid>http://www.archivecon.org/faq/</guid>
+      <guid>http://localhost:1313/faq/</guid>
       <description>This is an adults-only, online-only, mini convention that was spurred on by our love of podcasts (mainly TMA, but all sorts of others as well!) and all the marginalia fandom has to offer</description>
     </item>
     <item>
       <title>Schedule</title>
-      <link>http://www.archivecon.org/home/services/schedule/</link>
+      <link>http://localhost:1313/home/services/schedule/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.archivecon.org/home/services/schedule/</guid>
+      <guid>http://localhost:1313/home/services/schedule/</guid>
       <description>Check out this year&amp;rsquo;s schedule of events!</description>
     </item>
     <item>
       <title>Artist Alley</title>
-      <link>http://www.archivecon.org/home/services/artists/</link>
+      <link>http://localhost:1313/home/services/artists/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.archivecon.org/home/services/artists/</guid>
+      <guid>http://localhost:1313/home/services/artists/</guid>
       <description>We will have a directory of artists, writers, and artisans (collectively henceforth known as AA Artists) right here on the site for you to peruse while attending ArchiveCon!</description>
     </item>
     <item>
       <title>Previous Years</title>
-      <link>http://www.archivecon.org/home/services/past/</link>
+      <link>http://localhost:1313/home/services/past/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.archivecon.org/home/services/past/</guid>
+      <guid>http://localhost:1313/home/services/past/</guid>
       <description>&lt;p&gt;Looking for inspiration for your next game, panel, or event, or just want to see what we&amp;rsquo;re about? Peruse some of our previous events to see what kinds of things we love!&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://www.archivecon.org/home/subheader/</link>
+      <link>http://localhost:1313/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.archivecon.org/home/subheader/</guid>
+      <guid>http://localhost:1313/home/subheader/</guid>
       <description>&lt;p&gt;ArchiveCon is returning June 27-29, 2025!&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>http://www.archivecon.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.archivecon.org/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;ArchiveCon was started in 2022, as the Magnus Archives fandom was beginning to dwindle post-finale, and is dedicated to keeping that love alive. We are committed to being an online-only experience to be inclusive of all our time zones (and to keep costs down so we don&amp;rsquo;t have to charge admission). While we do often have guests from Rusty Quill productions, we&amp;rsquo;re not affiliated with the organization in any way&amp;ndash;this is a by-fans, for-fans event!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Register for ArchiveCon</title>
-      <link>http://www.archivecon.org/registration/</link>
+      <link>http://localhost:1313/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.archivecon.org/registration/</guid>
+      <guid>http://localhost:1313/registration/</guid>
       <description>&lt;h3 class=&#34;flag&#34;&gt;Registration is currently closed&lt;/h3&gt;&#xA;&#xA;&#xA;&lt;p&gt;Before registering, please review the Rules and Code of Conduct one more time:&lt;/p&gt;&#xA;&lt;h2 id=&#34;rules-and-code-of-conduct&#34;&gt;Rules and Code of Conduct&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You must be 18 or over to attend; those found to be younger will be kicked from the convention.&lt;/li&gt;&#xA;&lt;li&gt;Harassment of any kind will not be tolerated, and attendees acting disrespectfully or disruptively to other attendees or the mods is a bannable offense.&lt;/li&gt;&#xA;&lt;li&gt;This is a judgment-free zone: severely dislike a ship, trope, kink, or character? Keep it to yourself! A light-hearted statement of preference is fine, but let’s keep the focus on things we do like! Any rudeness will not be tolerated.&lt;/li&gt;&#xA;&lt;li&gt;Our panels will be given a NSFW tag if applicable, and panelists are free to choose content warnings. However, they are also free not to, so please ensure you curate your experience responsibly.&lt;/li&gt;&#xA;&lt;li&gt;We are against harassment and fandom puritanism - if these do not align with your beliefs, then this may not be the convention for you.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If you see any behaviour that breaks the above rules, or makes you uncomfortable, let us know! Either email us at &lt;a href=&#34;mailto:archivecon@protonmail.com&#34;&gt;archivecon@protonmail.com&lt;/a&gt;, message us on Bluesky or Tumblr, or @ one of the staff on Discord.&lt;/p&gt;</description>
     </item>
   </channel>

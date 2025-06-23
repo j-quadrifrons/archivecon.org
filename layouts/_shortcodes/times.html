@@ -1,0 +1,7 @@
+
+{{ $t := time.AsTime .Params.timestart }}
+{{ $e := time.AsTime .Params.timeend }}
+* **ArchiveCon time:** {{ $t | time.In "America/Toronto" | time.Format ":time_short" }} - {{ $e | time.In "America/Toronto" | time.Format ":time_short" }}  
+* **Local time:** {{ $t | time.In "Local" | time.Format ":time_short" }} - {{ $e | time.In "Local" | time.Format ":time_short" }}
+
+

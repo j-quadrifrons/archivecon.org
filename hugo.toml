@@ -28,7 +28,7 @@ copyright = 'ArchiveCon 2025'
 
 		# archivecon specific
 		applications = 'closed'
-		registration = 'open'
+		registration = 'closed'
 		registration_url = 'https://www.eventbrite.ca/e/archivecon-tickets-1037239740987?aff=oddtdtcreator'
 		artist_url = 'https://docs.google.com/forms/d/e/1FAIpQLSc9HaQRPW91ZnYmfJ62pfTP9GYjsCElOoMXvjV7QosB4eN1Aw/viewform'
 		panelist_url = 'https://docs.google.com/forms/d/e/1FAIpQLSczI3-q5BPC9YhWsNXHwZnK1oAIzeh1Hkm9E5gXoUPLlys_3A/viewform'

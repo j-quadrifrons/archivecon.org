@@ -80,7 +80,8 @@ A discussion of asexual representation in TMA and the fandom, in fan fic, art, a
 ### The Mother of Puppets: Metafiction and the Web of Narrative
 "It is so very important to prime your audience..." This panel will explore the metafictional aspects of The Magnus Archives, from the podcast's roots in creepypasta to the Web's persistent preoccupation with storytelling, including an examination of the characters who seem to know they’re in a narrative - and exactly how to weaponize it. 
 * **8:30pm - 9:30pm**
-* 🚫 Recorded
+* ✔️ Recorded
+* Panelist: Lucas Blackwood
 * Panelist: Astrisarcher
 * Tags: Spoilers for the end of TMA; Creator chose not to use warnings
 

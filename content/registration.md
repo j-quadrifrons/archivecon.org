@@ -1,5 +1,6 @@
 +++
 title='Register for ArchiveCon'
+date='2025-06-24'
 +++
 
 {{< registration >}}

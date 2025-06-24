@@ -1,6 +1,5 @@
 baseURL = 'http://www.archivecon.org'
 languageCode = 'en-us'
-#title = 'ArchiveCon 2025'
 theme = 'initio'
 title = 'ArchiveCon'
 copyright = 'ArchiveCon 2025'
@@ -20,7 +19,6 @@ copyright = 'ArchiveCon 2025'
 		# initio theme specific
 		showSubheader = true
 		showServices = true
-
 		showFooterContact = true
 		showFooterFollowMe = true
 		showFooterTextWidget = true
@@ -37,12 +35,12 @@ copyright = 'ArchiveCon 2025'
 		conend = '2025-06-29'
 		conyear = '2025'
 
-#[[params.social]]
-#name = 'twitter'
-#url = 'https://twitter.com/archive_con'
-#  footer = true
-#	icon = 'fab fa-twitter-square'
-#	network = 'twitter'
+[[params.social]]
+name = 'twitter'
+url = 'https://twitter.com/archive_con'
+  footer = false
+	icon = 'fab fa-twitter-square'
+	network = 'twitter'
 [[params.social]]
 name = 'tumblr'
 url = 'https://archivecon.tumblr.com'
@@ -77,9 +75,6 @@ weight = 4
 name = 'Schedule'
 url = '/home/services/schedule'
 weight = 5
-
-[taxonomies]
-category = 'years'
 
 [outputs]
 home = ['HTML', 'RSS']

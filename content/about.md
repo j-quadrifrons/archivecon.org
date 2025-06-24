@@ -19,7 +19,7 @@ They/Them | Fiber nerd and former librarian
 
 Linn | Decently Regarded | Moderator  
 Any | Im the linn in the credits  
-[@ppoka-p.bsky.social](https://bsky.app/profile/ppoka-p.bsky.social)
+[@ppoka-p](https://bsky.app/profile/ppoka-p.bsky.social)
 
 Elodie | Moderator	  
 She/Her | Likes spreadsheets & archivists, does not have grey eyes (yet)  

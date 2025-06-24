@@ -7,8 +7,6 @@
   </url><url>
     <loc>http://localhost:1313/home/services/rules/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/recentworks/</loc>
-  </url><url>
     <loc>http://localhost:1313/faq/</loc>
     <lastmod>2024-08-26T10:01:14-05:00</lastmod>
   </url><url>
@@ -31,8 +29,10 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
     <loc>http://localhost:1313/registration/</loc>
   </url><url>
-    <loc>http://localhost:1313/years/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

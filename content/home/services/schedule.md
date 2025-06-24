@@ -65,7 +65,7 @@ Would you smash or pass the “DO NOT OPEN” coffin? What about the blanket mon
 * Tags: NSFW; Discussions of sexual topics
 
 ### 3D Modelling for Beginners: Model a Tape Recorder
-Learn the basics of 3D modeling and how it can be used in fanart! Follow along and model a tape recorder in Womp 3D (no software download required).
+Learn the basics of 3D modeling and follow along making a tape recorder in Womp 3D (no software download required).
 * **5:30pm - 7pm**
 * ✔️ Recorded
 * Panelist: Archiverot (Desmond)

@@ -17,6 +17,10 @@ J. Quadrifrons | Fandom Elder | Moderator
 They/Them | Fiber nerd and former librarian  
 [@j_quadrifrons](https://bsky.app/profile/quadrifrons.online)
 
+Linn | Decently Regarded | Moderator  
+Any | Im the linn in the credits  
+[@ppoka-p.bsky.social](https://bsky.app/profile/ppoka-p.bsky.social)
+
 Elodie | Moderator	  
 She/Her | Likes spreadsheets & archivists, does not have grey eyes (yet)  
 [@RavenXavier11](https://bsky.app/profile/ravenxavier-11.bsky.social)

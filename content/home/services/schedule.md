@@ -4,13 +4,15 @@ lastmod = '2025-06-22'
 summary = "Check out this year's schedule of events!"
 +++
 
-All times are in EDT (UTC-4)
+ArchiveCon takes place in **EDT** (UTC-4). Convert ArchiveCon time to your own time zone here:
+
+{{< timezone >}}
 
 {{< details "Friday, June 27" true>}}
 
 ### Opening Ceremonies
 Welcome to the con! This is just a short introduction to what we'll be seeing and talking about all weekend.
-* **4pm - 4:15pm**
+* **4pm - 4:15pm** 
 * ✔️ Recorded
 
 ### I HAVE SO MANY FEELINGS ABOUT TIMOTHY STOKER

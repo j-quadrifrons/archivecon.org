@@ -24,6 +24,13 @@
       <description>This is an adults-only, online-only, mini convention that was spurred on by our love of podcasts (mainly TMA, but all sorts of others as well!) and all the marginalia fandom has to offer</description>
     </item>
     <item>
+      <title>Artists Alley</title>
+      <link>http://localhost:1313/home/services/artists/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/artists/</guid>
+      <description>Preview this year&amp;rsquo;s artists!</description>
+    </item>
+    <item>
       <title>Register for ArchiveCon</title>
       <link>http://localhost:1313/registration/</link>
       <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
@@ -38,18 +45,11 @@
       <description>Check out this year&amp;rsquo;s schedule of events!</description>
     </item>
     <item>
-      <title>Artist Alley</title>
-      <link>http://localhost:1313/home/services/artists/</link>
-      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/artists/</guid>
-      <description>We will have a directory of artists, writers, and artisans (collectively henceforth known as AA Artists) right here on the site for you to peruse while attending ArchiveCon!</description>
-    </item>
-    <item>
       <title>Previous Years</title>
       <link>http://localhost:1313/home/services/past/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/services/past/</guid>
-      <description>&lt;p&gt;Looking for inspiration for your next game, panel, or event, or just want to see what we&amp;rsquo;re about? Peruse some of our previous events to see what kinds of things we love!&lt;/p&gt;</description>
+      <description>Check out panels, guests, and games from previous years</description>
     </item>
     <item>
       <title></title>

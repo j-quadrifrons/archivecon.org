@@ -25,6 +25,7 @@ copyright = 'ArchiveCon 2025'
 		showFooterFormWidget = false
 
 		# archivecon specific
+		accentColor = '#BD1550'
 		applications = 'closed'
 		registration = 'open'
 		registration_url = 'https://www.eventbrite.ca/e/archivecon-tickets-1037239740987?aff=oddtdtcreator'

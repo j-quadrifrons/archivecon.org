@@ -1,11 +1,11 @@
 +++
 title="Previous Years"
 lastmod=2024-09-18T00:00:00+00:00
+summary="Check out panels, guests, and games from previous years"
 +++
 
 Looking for inspiration for your next game, panel, or event, or just want to see what we're about? Peruse some of our previous events to see what kinds of things we love!
 
-<!--more-->
 
 {{< details "Guests" >}}
 

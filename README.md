@@ -55,6 +55,8 @@ The basic information that needs to be updated every year for the con can all be
 * conend - set to the last day of the con
 * conyear - set to the year the con will happen
 
+The con's time zone appears in too many places (namely the time zone widget), so it is **not** set in a variable; be sure to update any references to time zone if the con will be based somewhere other than EDT.
+
 ### Contact information
 
 You'll find social media links under `[[params.social]]`; you can add more items in the same format or replace notes as necessary. set `footer = false` to hide an entry from the display. Icons are [FontAwesome Basic](https://fontawesome.com) version 5. Other references to social media do exist on other pages, unfortunately, so you'll need to review the site pages to remove old links if necessary.
@@ -76,6 +78,8 @@ The artists alley page at `/content/home/services/artists/index.md` is displayed
 ### Images
 
 Images belonging to a single page (like the artists' alley gallery or promo images from past years) should be placed in the same folder as their `.md` content file. Images displayed on the entire site (like the logo and header graphic) should be placed in `/assets/images`. Because of the size of the header images required, we've generally been using free licensed images from [Unsplash](https://unsplash.com); be sure to add attribution to the `img_title` parameter.
+
+You may want to update the accent color when you update the annual themed images; you'll find that variable in `hugo.toml` as `accentColor`.
 
 ## Publishing
 

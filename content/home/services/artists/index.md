@@ -93,9 +93,9 @@ summary="Preview this year's artists!"
 * [Carrd](https://calculatormenace.carrd.co#commissioninformation)
 
 # Gray Wizabeth Designs
-* ![artist preview 1](wizabeth1-thumb.gif)
-* ![artist preview 2](wizabeth2-thumb.gif)
-* ![artist preview 3](wizabeth3-thumb.gif)
+* ![artist preview 1](gray1-thumb.gif)
+* ![artist preview 2](gray2-thumb.gif)
+* ![artist preview 3](gray3-thumb.gif)
 {class="artist"}
 * [Etsy](https://www.etsy.com/uk/shop/GrayWizabethDesigns)
 

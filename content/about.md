@@ -25,10 +25,6 @@ Elodie | Moderator
 She/Her | Likes spreadsheets & archivists, does not have grey eyes (yet)  
 [@RavenXavier11](https://bsky.app/profile/ravenxavier-11.bsky.social)
 
-Hosta | Copywriter | Moderator  
-He/They | Eldritch terror, hairstylist, and all-around gremlin  
-[@paradisepuppet](https://twitter.com/paradisepuppet)
-
 Cassidy | Moderator  
 She/Her | One day I'll finish that entry about tape recorders in TMA  
 [@cassidybeads](https://twitter.com/cassidybeads)
